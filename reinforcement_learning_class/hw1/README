@@ -1,0 +1,10 @@
+README
+
+This is the first homework assignment for the WSU 580 Reinforcement Learning class. The objective of the assignment is to learn and implement value iteration or policy iteration through dynamic programming for a number of environments in the openai-gym api.
+
+We started with a 'traditional' environment added by our instructor call "Grid World". This is a simple, deterministic environment. 
+
+I then tested algorithm on another environment called Frozen Lake, a slightly more difficult, stochastic environment. 
+
+Openai-gym: https://gym.openai.com/envs/
+Course Website: http://www.eecs.wsu.edu/~taylorm/17_580/index.html

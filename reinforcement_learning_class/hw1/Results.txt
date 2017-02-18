@@ -1,0 +1,138 @@
+DISCOUNT = .1
+
+***************************************
+World: Grid World
+Average Time Steps: 0.0
+Average Reward: -300.0
+Max Reward: 0
+Number of Attempts: 30
+****************************************
+
+***************************************
+World: FrozenLake-v0
+Average Time Steps: 31.8
+Average Reward: 0.5
+Max Reward: 1.0
+Number of Attempts: 30
+****************************************
+
+***************************************
+World: FrozenLake8x8-v0
+Average Time Steps: 50.0666666667
+Average Reward: 0.5
+Max Reward: 1.0
+Number of Attempts: 30
+****************************************
+
+***************************************
+World: Taxi-v2
+Average Time Steps: 0.0
+Average Reward: -100.0
+Max Reward: 0
+Number of Attempts: 30
+****************************************
+
+Discount = .5
+
+***************************************
+World: Grid World
+Average Time Steps: 5.0
+Average Reward: 88.0
+Max Reward: 88
+Number of Attempts: 30
+****************************************
+
+***************************************
+World: FrozenLake-v0
+Average Time Steps: 22.0666666667
+Average Reward: 0.466666666667
+Max Reward: 1.0
+Number of Attempts: 30
+****************************************
+
+***************************************
+World: FrozenLake8x8-v0
+Average Time Steps: 29.6666666667
+Average Reward: 0.333333333333
+Max Reward: 1.0
+Number of Attempts: 30
+****************************************
+
+***************************************
+World: Taxi-v2
+Average Time Steps: 0.0
+Average Reward: -100.0
+Max Reward: 0
+Number of Attempts: 30
+****************************************
+
+
+Discount = .7
+
+***************************************
+World: Grid World
+Average Time Steps: 5.0
+Average Reward: 88.0
+Max Reward: 88
+Number of Attempts: 30
+****************************************
+
+***************************************
+World: FrozenLake-v0
+Average Time Steps: 30.8
+Average Reward: 0.433333333333
+Max Reward: 1.0
+Number of Attempts: 30
+****************************************
+
+***************************************
+World: FrozenLake8x8-v0
+Average Time Steps: 44.9333333333
+Average Reward: 0.466666666667
+Max Reward: 1.0
+Number of Attempts: 30
+****************************************
+
+***************************************
+World: Taxi-v2
+Average Time Steps: 1.43333333333
+Average Reward: -81.2666666667
+Max Reward: 15
+Number of Attempts: 30
+****************************************
+
+Discount = .9
+
+***************************************
+World: Grid World
+Average Time Steps: 5.0
+Average Reward: 88.0
+Max Reward: 88
+Number of Attempts: 30
+****************************************
+
+***************************************
+World: FrozenLake-v0
+Average Time Steps: 36.2666666667
+Average Reward: 0.6
+Max Reward: 1.0
+Number of Attempts: 30
+****************************************
+
+***************************************
+World: FrozenLake8x8-v0
+Average Time Steps: 50.7333333333
+Average Reward: 0.633333333333
+Max Reward: 1.0
+Number of Attempts: 30
+****************************************
+
+***************************************
+World: Taxi-v2
+Average Time Steps: 12.5
+Average Reward: 8.5
+Max Reward: 15
+Number of Attempts: 30
+****************************************
+
+
