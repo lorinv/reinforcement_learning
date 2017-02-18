@@ -6,5 +6,8 @@ We started with a 'traditional' environment added by our instructor call "Grid W
 
 I then tested algorithm on another environment called Frozen Lake, a slightly more difficult, stochastic environment. 
 
+
+To run the code in python2: python dp_value_solver.py
+
 Openai-gym: https://gym.openai.com/envs/
 Course Website: http://www.eecs.wsu.edu/~taylorm/17_580/index.html
